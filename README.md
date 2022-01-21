@@ -2,7 +2,8 @@ This is JinGuk's Git👋
 ==
 ### print("Hello World!");
 
-__My Schedule___
+__My Programming Skill___
+![Alt text](/path/to/img.jpg "image")
 
 <h3 align="center"><b>🛠 I can Do 🛠</b></h3>
 </br>
@@ -14,11 +15,6 @@ __My Schedule___
 
 </p>
 
-- 👋 Hi, I’m @MoonLightJG
-- 👀 I’m interested in EveryThig
-- 🌱 I’m currently learning Unity, Electronic
-- 💞️ I’m looking to collaborate on Game Editor
-- 📫 How to reach me I don't know
 
 <!---
 MoonLightJG/MoonLightJG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
